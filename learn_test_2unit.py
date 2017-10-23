@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-"""
+
 from random import randint
 import timeit
 #data = [randint(-10,10) for _ in xrange(10)]
@@ -93,7 +93,7 @@ print
 print '-'*20
 for k in d:
     print k,d[k]
-"""
+
 
 ########how to record a history
 ############method
